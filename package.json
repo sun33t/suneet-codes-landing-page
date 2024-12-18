@@ -1,5 +1,6 @@
 {
-  "name": "suneet-codes",
+  "name": "suneet-codes-landing-page",
+  "description": "A temporary landing page to throw up on suneet.codes until the new site is built",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
